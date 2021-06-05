@@ -1,0 +1,9 @@
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\bin\Debug\netcoreapp3.1\Modelo.deps.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.AssemblyInfo.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\Modelo\obj\Debug\netcoreapp3.1\Modelo.csprojAssemblyReference.cache

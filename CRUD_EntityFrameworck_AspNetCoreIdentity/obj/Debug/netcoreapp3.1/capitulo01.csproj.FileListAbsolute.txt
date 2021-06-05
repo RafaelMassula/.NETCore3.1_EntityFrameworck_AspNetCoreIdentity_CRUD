@@ -1,0 +1,346 @@
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.exe
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.deps.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.runtimeconfig.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.runtimeconfig.dev.json
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.Views.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\capitulo01.Views.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.AssemblyInfo.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorAssemblyInfo.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorAssemblyInfo.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\staticwebassets\capitulo01.StaticWebAssets.Manifest.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\staticwebassets\capitulo01.StaticWebAssets.xml
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\scopedcss\bundle\capitulo01.styles.css
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.TagHelpers.input.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.TagHelpers.output.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorCoreGenerate.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Create.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Delete.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Details.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Edit.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Departamento\Index.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Create.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Delete.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Details.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Edit.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Instituicao\Index.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIES.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorTargetAssemblyInfo.cs
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.Views.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csproj.CopyComplete
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.dll
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.pdb
+C:\Users\rafae\Desktop\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.genruntimeconfig.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Modelo.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\Modelo.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csprojAssemblyReference.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.AssemblyInfoInputs.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.AssemblyInfo.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csproj.CoreCompileInputs.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorAssemblyInfo.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorAssemblyInfo.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorCoreGenerate.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\Create.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\Delete.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\Details.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\Edit.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\Index.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Departamento\_PartialDetailsContentCard.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\Create.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\Delete.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\Details.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\Edit.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\Index.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\_ComDepartamentos.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\Instituicao\_PartialDetailsContentCard.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Cadastros\Views\_ViewImports.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\Create.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\Delete.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\Details.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\Edit.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\Index.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\Academico\_PartialDetailsContentCard.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Areas\Discente\Views\_ViewImports.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Infra\Acessar.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutIES.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorTargetAssemblyInfo.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.RazorTargetAssemblyInfo.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.csproj.CopyComplete
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\capitulo01.genruntimeconfig.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\Razor\Views\Infra\RegistrarNovoUsuario.cshtml.g.cs
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.exe
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.deps.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.runtimeconfig.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.runtimeconfig.dev.json
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.Views.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\bin\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.Views.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\staticwebassets\CRUD_EntityFrameworck_AspNetCoreIdentity.StaticWebAssets.Manifest.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\staticwebassets\CRUD_EntityFrameworck_AspNetCoreIdentity.StaticWebAssets.xml
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\scopedcss\bundle\CRUD_EntityFrameworck_AspNetCoreIdentity.styles.css
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.TagHelpers.input.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.TagHelpers.output.cache
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.Views.pdb
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.dll
+C:\Users\rafae\OneDrive - sga.pucminas.br\CasaDoCodigo\Asp.NetCore\PrimeiraSolucao\capitulo01\capitulo01\obj\Debug\netcoreapp3.1\CRUD_EntityFrameworck_AspNetCoreIdentity.pdb

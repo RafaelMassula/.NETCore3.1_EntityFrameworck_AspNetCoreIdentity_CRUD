@@ -1,0 +1,87 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-grid.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css" asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap-grid.min.css" asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap-grid.min.css" asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+    </environment>
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    <nav class="navbar navbar-light bg-primary navbar-fixed-top">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="navbar-header">
+                    <img class="media-heading" src="https://avatars3.githubusercontent.com/u/1411169?s=400&v=4" width="30" height="30" alt="">
+                </div>
+                <div>
+                    <ul class="nav navbar-nav navbar-light">
+                        <li class="navbar-brand">&nbsp;&nbsp;&nbsp;ASP.NET Core MVC</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="row" style="text-align:right;">
+        <div class="col-6"></div>
+        <div class="col-6">
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <div class="mr-3">Olá @UserManager.GetUserName(User), seja bem vindo(a)./ @Html.ActionLink("Logout", "Sair", "Infra", new { area = "" })</div>
+            }
+            else
+            {
+                <a class="nav-item nav-link" asp-area="" asp-controller="Infra" asp-action="Acessar">Informar usuário/Senha para acessar</a>
+            }
+        </div>
+    </div>
+    <div class="container" style="margin-top: 20px;">
+        <div class="row">
+            <div class="col-3">
+                <nav class="nav flex-column bg-transparent" style="margin-left:40px;">
+                    <div class="row">
+                        <a class="nav-link active" asp-controller="Instituicao" asp-area="Cadastros" asp-action="Index">
+                            <img src="https://avatars3.githubusercontent.com/u/1411169?s=400&v=4" width="30" height="30" alt="Instituições"> Instituições
+                        </a>
+                    </div>
+                    <div class="row">
+                        <a class="nav-link" asp-controller="Departamento" asp-area="Cadastros" asp-action="Index">
+                            <img src="https://avatars3.githubusercontent.com/u/1411169?s=400&v=4" width="30" height="30" alt="Departamentos"> Departamentos
+                        </a>
+                    </div>
+                    <div class="row">
+                        <a class="nav-link" asp-controller="Academico" asp-area="Discente" asp-action="Index">
+                            <img src="https://avatars3.githubusercontent.com/u/1411169?s=400&v=4" width="30" height="30" alt="Academico"> Acadêmicos
+                        </a>
+                    </div>
+                </nav>
+            </div>
+            <div class="col-9">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <nav class="navbar fixed-bottom" style="background-color:#e3f2fd; margin-top:20px;">
+        <a class="navbar-brand" href="#">Everton Coimbra de Araújo </a>
+    </nav>
+    <environment include="Development">
+        <script src="~/lib/jquery/jquery.slim.min.js"></script>
+        <script src="~/lib/popper.js/umd/popper.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.6.0/umd/popper.min.js" asp-fallback-src="~/lib/popper.js/umd/popper.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" asp-fallback-src="~/lib/jquery/jquery.slim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/js/bootstrap.min.js" asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    </environment>
+    @RenderSection("ScriptPage", required: false)
+</body>
+</html>
+
