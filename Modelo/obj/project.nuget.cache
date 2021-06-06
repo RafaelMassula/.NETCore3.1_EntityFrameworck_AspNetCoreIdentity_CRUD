@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BytGGDwOq1N3ALlsaUu8FaKsZn1KfeGHLR2iGQToWIPFgoiQPRIc1vNbm+/9PGhd/rhoxLecLZCJPM3G7dXByw==",
+  "dgSpecHash": "zulzhyaS1M3MzW5p4K3YRQfnirQm5GAWwggf8sL/ANxZFDv80ama5PovicX3iPOlbIAXSQb7aEpzumbpjOxqsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj",
+  "projectFilePath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,4 +1,4 @@
-﻿using capitulo01.Models;
+﻿using CRUD_EntityFrameworck_AspNetCoreIdentity.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Controllers
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Controllers
 {
     public class HomeController : Controller
     {

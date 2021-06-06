@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using capitulo01.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 
-namespace capitulo01.Migrations
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Migrations
 {
     [DbContext(typeof(IEScontext))]
     [Migration("20210306175250_Academicos")]

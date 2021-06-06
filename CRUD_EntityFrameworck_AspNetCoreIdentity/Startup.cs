@@ -1,5 +1,5 @@
-using capitulo01.Data;
-using capitulo01.Models.Infra;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -14,7 +14,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity
 {
     public class Startup
     {
@@ -53,7 +53,6 @@ namespace capitulo01
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
             app.UseRouting();
 
             app.UseAuthentication();

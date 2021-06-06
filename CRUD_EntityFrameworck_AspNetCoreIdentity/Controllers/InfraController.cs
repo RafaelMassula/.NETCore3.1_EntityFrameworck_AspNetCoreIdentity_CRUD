@@ -1,4 +1,4 @@
-﻿using capitulo01.Models.Infra;
+﻿using CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Controllers
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Controllers
 {
     [Authorize]
     public class InfraController : Controller

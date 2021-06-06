@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Models.Infra
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra
 {
     public class AcessarViewModel
     {

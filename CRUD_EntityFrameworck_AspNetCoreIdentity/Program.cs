@@ -1,4 +1,4 @@
-using capitulo01.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity
 {
     public class Program
     {

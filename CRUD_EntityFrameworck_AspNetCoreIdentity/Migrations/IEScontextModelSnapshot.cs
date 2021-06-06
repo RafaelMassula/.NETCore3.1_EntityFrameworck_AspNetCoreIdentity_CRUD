@@ -4,9 +4,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using capitulo01.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 
-namespace capitulo01.Migrations
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Migrations
 {
     [DbContext(typeof(IEScontext))]
     partial class IEScontextModelSnapshot : ModelSnapshot

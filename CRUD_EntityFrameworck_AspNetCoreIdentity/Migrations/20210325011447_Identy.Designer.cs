@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using capitulo01.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 
-namespace capitulo01.Migrations
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Migrations
 {
     [DbContext(typeof(IEScontext))]
     [Migration("20210325011447_Identy")]
@@ -265,7 +265,7 @@ namespace capitulo01.Migrations
                     b.ToTable("Academicos");
                 });
 
-            modelBuilder.Entity("capitulo01.Models.Infra.UsuarioDaAplicacao", b =>
+            modelBuilder.Entity("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra.UsuarioDaAplicacao", b =>
                 {
                     b.Property<string>("Id")
                         .HasColumnType("nvarchar(450)");
@@ -341,7 +341,7 @@ namespace capitulo01.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserClaim<string>", b =>
                 {
-                    b.HasOne("capitulo01.Models.Infra.UsuarioDaAplicacao", null)
+                    b.HasOne("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra.UsuarioDaAplicacao", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -350,7 +350,7 @@ namespace capitulo01.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserLogin<string>", b =>
                 {
-                    b.HasOne("capitulo01.Models.Infra.UsuarioDaAplicacao", null)
+                    b.HasOne("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra.UsuarioDaAplicacao", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -365,7 +365,7 @@ namespace capitulo01.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("capitulo01.Models.Infra.UsuarioDaAplicacao", null)
+                    b.HasOne("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra.UsuarioDaAplicacao", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
@@ -374,7 +374,7 @@ namespace capitulo01.Migrations
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityUserToken<string>", b =>
                 {
-                    b.HasOne("capitulo01.Models.Infra.UsuarioDaAplicacao", null)
+                    b.HasOne("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Infra.UsuarioDaAplicacao", null)
                         .WithMany()
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)

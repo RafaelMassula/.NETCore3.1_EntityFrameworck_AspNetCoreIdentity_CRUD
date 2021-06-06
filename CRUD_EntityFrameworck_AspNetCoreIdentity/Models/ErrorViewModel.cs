@@ -1,6 +1,6 @@
 using System;
 
-namespace capitulo01.Models
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Models
 {
     public class ErrorViewModel
     {

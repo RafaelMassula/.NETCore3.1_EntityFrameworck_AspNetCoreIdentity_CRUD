@@ -1,5 +1,5 @@
-﻿using capitulo01.Data;
-using capitulo01.Data.DAL.Discente;
+﻿using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data.DAL.Discente;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Modelo.Discente;
@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Areas.Discente.Controllers
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Areas.Discente.Controllers
 {
     [Area("Discente")]
     public class AcademicoController : Controller

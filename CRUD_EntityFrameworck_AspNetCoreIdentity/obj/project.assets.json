@@ -8917,11 +8917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\capitulo01\\CRUD_EntityFrameworck_AspNetCoreIdentity.csproj",
-      "projectName": "CRUD_EntityFrameworck_AspNetCoreIdentity",
-      "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\capitulo01\\CRUD_EntityFrameworck_AspNetCoreIdentity.csproj",
+      "projectUniqueName": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\CRUD_EntityFrameworck_AspNetCoreIdentity\\CRUD.csproj",
+      "projectName": "CRUD",
+      "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\CRUD_EntityFrameworck_AspNetCoreIdentity\\CRUD.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\capitulo01\\obj\\",
+      "outputPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\CRUD_EntityFrameworck_AspNetCoreIdentity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8942,8 +8942,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj": {
-              "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj"
+            "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj": {
+              "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj"
             }
           }
         }

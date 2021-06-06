@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Data
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Data
 {
     public class IESDbInitializer
     {

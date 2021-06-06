@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj": {}
+    "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj": {
+    "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj",
+        "projectUniqueName": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj",
         "projectName": "Modelo",
-        "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\Modelo.csproj",
+        "projectPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\Modelo.csproj",
         "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\CasaDoCodigo\\Asp.NetCore\\PrimeiraSolucao\\capitulo01\\Modelo\\obj\\",
+        "outputPath": "C:\\Users\\rafae\\OneDrive - sga.pucminas.br\\Alura\\CasaDoCodigo\\Asp.NetCore\\CRUD_EntityFrameworck_AspNetCoreIdentity\\Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

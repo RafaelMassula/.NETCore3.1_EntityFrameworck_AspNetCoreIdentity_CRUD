@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace capitulo01.Data.DAL.Cadastros
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Data.DAL.Cadastros
 {
     public class DepartamentoDAL
     {

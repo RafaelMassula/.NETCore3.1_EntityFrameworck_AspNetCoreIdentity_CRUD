@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using capitulo01.Data;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 
-namespace capitulo01.Migrations
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Migrations
 {
     [DbContext(typeof(IEScontext))]
     [Migration("20210125140300_Initial")]
@@ -21,7 +21,7 @@ namespace capitulo01.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("ProductVersion", "5.0.2");
 
-            modelBuilder.Entity("capitulo01.Models.Departamento", b =>
+            modelBuilder.Entity("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Departamento", b =>
                 {
                     b.Property<long>("DepartamentoId")
                         .ValueGeneratedOnAdd()
@@ -36,7 +36,7 @@ namespace capitulo01.Migrations
                     b.ToTable("Departamentos");
                 });
 
-            modelBuilder.Entity("capitulo01.Models.Instituicao", b =>
+            modelBuilder.Entity("CRUD_EntityFrameworck_AspNetCoreIdentity.Models.Instituicao", b =>
                 {
                     b.Property<long?>("InstituicaoID")
                         .ValueGeneratedOnAdd()

@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace capitulo01.Migrations
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Migrations
 {
     public partial class Academicos : Migration
     {

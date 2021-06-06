@@ -1,9 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <AssemblyName>CRUD_EntityFrameworck_AspNetCoreIdentity</AssemblyName>
-    <RootNamespace>CRUD_EntityFrameworck_AspNetCoreIdentity</RootNamespace>
+    <AssemblyName>CRUD</AssemblyName>
+    <RootNamespace>CRUD</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

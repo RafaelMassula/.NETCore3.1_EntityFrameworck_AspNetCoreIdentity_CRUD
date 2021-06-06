@@ -1,4 +1,4 @@
-﻿using capitulo01.Data;
+﻿using CRUD_EntityFrameworck_AspNetCoreIdentity.Data;
 using Modelo.Cadastros;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -7,9 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using capitulo01.Data.DAL.Cadastros;
+using CRUD_EntityFrameworck_AspNetCoreIdentity.Data.DAL.Cadastros;
 
-namespace capitulo01.Areas.Cadastros.Controllers
+namespace CRUD_EntityFrameworck_AspNetCoreIdentity.Areas.Cadastros.Controllers
 {
     [Area("Cadastros")]
     public class DepartamentoController : Controller
